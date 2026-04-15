@@ -1,2 +1,2 @@
 This is my first Git repository.
-I am learning basic Git commands.
+ And I am learning my basic Git commands.
